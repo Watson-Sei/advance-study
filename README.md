@@ -15,7 +15,9 @@
 ## pandas 参考資料
 
 ---- 重複属性の結合合計値を出力する説明がされているサイト ----
+
 https://note.nkmk.me/python-pandas-duplicated-drop-duplicates/
 
 ---- 指定カラムの出力をする説明がされているサイト ----
+
 https://note.nkmk.me/python-pandas-index-row-column/
